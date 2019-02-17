@@ -17,8 +17,8 @@ title: Příbramské rebelky
 email: pbrebelky@seznam.cz
 description: >- # this means to   until "baseurl:"
  Taneční skupina Příbramské Rebelky jsou kamarádky, které rády tančí a baví je užívat si volný čas tancem.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/rebelky" # the subpath of your site, e.g. /blog
+url: "https://rsamec.github.io/rebelky/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -33,7 +33,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-      
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
