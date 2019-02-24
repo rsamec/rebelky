@@ -28,10 +28,8 @@ social_username: pbrebelky
 
 # Build settings
 markdown: kramdown
-theme: "jekyll-swiss"
-plugins:
-  - jekyll-feed
-  
+remote_theme: broccolini/swiss
+
 defaults:
   - scope:
       path: "assets/img"
