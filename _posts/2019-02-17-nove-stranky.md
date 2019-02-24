@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Nové www stránky!"
+title:  "Nové webové stránky!"
 date:   2019-02-17 11:21:54 +0100
-categories: jekyll update
+categories: writing
 ---
 Vítáme Vás na našich nových www stránkách. 

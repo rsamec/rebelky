@@ -20,11 +20,15 @@ description: >- # this means to   until "baseurl:"
 baseurl: "/rebelky" # the subpath of your site, e.g. /blog
 url: "https://rsamec.github.io/rebelky/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_repo: rebelky # the GitHub repo name for your project
+github_username: rsamec
+
+social_link: facebook
+social_username: pbrebelky
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: "jekyll-swiss"
 plugins:
   - jekyll-feed
   
