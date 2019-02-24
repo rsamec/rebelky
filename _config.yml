@@ -18,7 +18,7 @@ email: pbrebelky@seznam.cz
 description: >- # this means to   until "baseurl:"
  Taneční skupina Příbramské Rebelky jsou kamarádky, které rády tančí a baví je užívat si volný čas tancem.
 baseurl: "/rebelky" # the subpath of your site, e.g. /blog
-url: "https://rsamec.github.io/rebelky/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rsamec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_repo: rebelky # the GitHub repo name for your project
 github_username: rsamec
